@@ -1,0 +1,4 @@
+Apples, Fruit, 2
+Milk, Beverage, 3
+OrangeJuice, Beverage, 2.5
+Bananas, Fruit, 1.5
